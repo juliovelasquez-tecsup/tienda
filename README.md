@@ -126,6 +126,9 @@ function calcularTotal(lista) {
 Las contribuciones son bienvenidas. Si encuentras un error, reportalo con
 un Issue y propone la correccion con un Pull Request.
 
+Lee la [guia de contribucion](CONTRIBUTING.md) antes de enviar cambios.
+
+
 ## Soporte
 
 Si tienes dudas o encuentras un problema, abre un Issue en la pestana
